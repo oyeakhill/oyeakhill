@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oyeakhill
 - 👀 I’m interested in AI/ML Data Science projects
 - 🌱 I’m currently learning DSA/OOPS/R
-- 💞️ I’m looking to collborate
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me palakhil197@gmail.com
 - ⚡ Fun fact: I'm an author as well. 
 
